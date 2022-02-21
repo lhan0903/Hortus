@@ -13,7 +13,7 @@ users tick off the check-boxes once the task is done.
 
 *Who will use it?*
 
- - plant carers who wish to record information about their plants and 
+ - Plant carers who wish to record information about their plants and 
 track their plant watering status.
 
 
