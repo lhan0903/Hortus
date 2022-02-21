@@ -1,5 +1,5 @@
 # HORTUS - A Plant Tracking Application
-####(*Latin:* Garden)
+#### (*Latin:* Garden)
 
 
 
@@ -28,7 +28,7 @@ myself as well as other plant caretakers.
 
 As a user, I want to be able to:
 
-###PHASE 1
+### PHASE 1
 1) Add a plant to my garden (collection of plant profiles)
 2) View my garden that shows all names of my plants
 3) Select a plant in my garden and view its information
@@ -36,42 +36,6 @@ As a user, I want to be able to:
 5) Mark the current watering task for an individual plant as complete
 <br><br>
 
-###PHASE 2
+### PHASE 2
 1) save my garden to file
 2) load my garden from file
-<br><br>
-
-###PHASE 4
-
-#####Task 2
-
-Mon Nov 22 14:47:45 PST 2021 <br>
-Removed plant: Joe
-
-Mon Nov 22 14:49:55 PST 2021 <br>
-Added plant: Linda the Eucalyptus
-
-Mon Nov 22 14:50:00 PST 2021 <br>
-Linda has been watered.
-
-Mon Nov 22 14:51:21 PST 2021 <br>
-Vi's information has been changed!
-
-Mon Nov 22 14:51:31 PST 2021 <br>
-Alex's information has been changed!
-<br><br><br>
-#####Task 3
-
-If you had more time to work on the project, is there any refactoring
-that you would do to improve your design?
-
-- GardenView and TodoView have very similar ui's (both have a list of plant profile
-cards that are created with JLabels) and therefore could both extend an abstract class that 
-contains their shared methods to reduce redundancy.
-<br><br>
-- The resizeImage and centerFrameLocation methods within HomeView class are used in every 
-other "view" class, and every time they would be called with HomeView.resizeImage(...). 
-I believe that it would make more sense for them to be all put into an individual class for 
-styling the ui which improves cohesion.
-<br><br>
-
