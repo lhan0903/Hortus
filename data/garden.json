@@ -1,0 +1,109 @@
+{
+    "initialDay": 52,
+    "myGarden": [
+        {
+            "wateringFrequency": 42,
+            "name": "Chassy",
+            "type": "Chrysanthemum",
+            "numDaysLastWatered": 0,
+            "numDaysUntilWater": 42,
+            "numTimeWatered": 1
+        },
+        {
+            "wateringFrequency": 6,
+            "name": "Leyla",
+            "type": "Lavender",
+            "numDaysLastWatered": 0,
+            "numDaysUntilWater": 6,
+            "numTimeWatered": 2
+        },
+        {
+            "wateringFrequency": 50,
+            "name": "Ben",
+            "type": "Baobab Tree",
+            "numDaysLastWatered": 97,
+            "numDaysUntilWater": -47,
+            "numTimeWatered": 2
+        },
+        {
+            "wateringFrequency": 6,
+            "name": "Olivia",
+            "type": "Philodendron",
+            "numDaysLastWatered": 0,
+            "numDaysUntilWater": 6,
+            "numTimeWatered": 1
+        },
+        {
+            "wateringFrequency": 7,
+            "name": "Karry",
+            "type": "Tulip",
+            "numDaysLastWatered": 97,
+            "numDaysUntilWater": -90,
+            "numTimeWatered": 1
+        },
+        {
+            "wateringFrequency": 50,
+            "name": "Spock",
+            "type": "Cactus",
+            "numDaysLastWatered": 97,
+            "numDaysUntilWater": -47,
+            "numTimeWatered": 1
+        },
+        {
+            "wateringFrequency": 12,
+            "name": "Stephanie",
+            "type": "Philodendron",
+            "numDaysLastWatered": 97,
+            "numDaysUntilWater": -85,
+            "numTimeWatered": 2
+        },
+        {
+            "wateringFrequency": 12,
+            "name": "Chloe",
+            "type": "Haworthia",
+            "numDaysLastWatered": 97,
+            "numDaysUntilWater": -85,
+            "numTimeWatered": 1
+        },
+        {
+            "wateringFrequency": 7,
+            "name": "Olina",
+            "type": "Spider Plant",
+            "numDaysLastWatered": 97,
+            "numDaysUntilWater": -90,
+            "numTimeWatered": 1
+        },
+        {
+            "wateringFrequency": 20,
+            "name": "Alexis",
+            "type": "Aloe Vera",
+            "numDaysLastWatered": 112,
+            "numDaysUntilWater": -92,
+            "numTimeWatered": 0
+        },
+        {
+            "wateringFrequency": 13,
+            "name": "efs",
+            "type": "asdf",
+            "numDaysLastWatered": 109,
+            "numDaysUntilWater": -96,
+            "numTimeWatered": 0
+        },
+        {
+            "wateringFrequency": 1,
+            "name": "plant1",
+            "type": "1",
+            "numDaysLastWatered": 97,
+            "numDaysUntilWater": -96,
+            "numTimeWatered": 1
+        },
+        {
+            "wateringFrequency": 23,
+            "name": "ertgeqrt",
+            "type": "reg",
+            "numDaysLastWatered": 98,
+            "numDaysUntilWater": -75,
+            "numTimeWatered": 0
+        }
+    ]
+}

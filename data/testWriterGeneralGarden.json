@@ -1,0 +1,21 @@
+{
+    "initialDay": 1,
+    "myGarden": [
+        {
+            "wateringFrequency": 5,
+            "name": "Albert",
+            "type": "Snake Plant",
+            "numDaysLastWatered": 2,
+            "numDaysUntilWater": 3,
+            "numTimeWatered": 2
+        },
+        {
+            "wateringFrequency": 3,
+            "name": "Dorothy",
+            "type": "Fiddle Leaf Fig",
+            "numDaysLastWatered": 3,
+            "numDaysUntilWater": 0,
+            "numTimeWatered": 0
+        }
+    ]
+}
