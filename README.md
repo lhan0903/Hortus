@@ -2,7 +2,6 @@
 #### (*Latin:* Garden)
 
 
-
 *What does the application do?*
 1) Allows user to create/delete individual profiles for each plant they own, 
 each profile will show the plant name, species, days since purchase, watering status
@@ -24,18 +23,3 @@ I tried many different apps on my phone, but they either require paid premium su
 or doesn't include a watering reminder feature that I wanted. So I thought this would be useful tool for 
 myself as well as other plant caretakers.
 
-## User Stories
-
-As a user, I want to be able to:
-
-### PHASE 1
-1) Add a plant to my garden (collection of plant profiles)
-2) View my garden that shows all names of my plants
-3) Select a plant in my garden and view its information
-4) Check the watering status
-5) Mark the current watering task for an individual plant as complete
-<br><br>
-
-### PHASE 2
-1) save my garden to file
-2) load my garden from file
