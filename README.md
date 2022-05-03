@@ -1,4 +1,4 @@
-# HORTUS - A Plant Tracking Application
+# HORTUS - A Plant Tracking Application 🌱
 #### (*Latin:* Garden)
 
 
