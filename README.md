@@ -23,3 +23,7 @@ I tried many different apps on my phone, but they either require paid premium su
 or doesn't include a watering reminder feature that I wanted. So I thought this would be useful tool for 
 myself as well as other plant caretakers.
 
+<img src="https://github.com/lhan0903/HortusApp/blob/master/images/demo1.png?raw=true" width=400px>
+<img src="https://github.com/lhan0903/HortusApp/blob/master/images/demo2.png?raw=true" width=400px>
+<img src="https://github.com/lhan0903/HortusApp/blob/master/images/demo3.png?raw=true" width=400px>
+<img src="https://github.com/lhan0903/HortusApp/blob/master/images/demo4.png?raw=true" width=400px>
